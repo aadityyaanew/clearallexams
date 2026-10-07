@@ -5,7 +5,7 @@ import { ShieldCheck, Sparkles, BookOpen } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 
 export const metadata = {
-  title: "All NISM & Financial Certifications Mock Test Series | ClearAllExams",
+  title: "All NISM & Financial Certifications Mock Test Series | Crack All Exams",
   description: "Browse 24+ NISM, NCFM, and IRDAI certification mock test series. Chapter tests, negative marking simulators, formula sheets, and 100% pass guarantee.",
 };
 

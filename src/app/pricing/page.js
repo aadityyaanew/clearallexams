@@ -16,7 +16,7 @@ import { Badge } from "@/components/ui/badge";
 import { Card } from "@/components/ui/card";
 
 export const metadata = {
-  title: "Pricing & Pass Assurance Guarantee | ClearAllExams",
+  title: "Pricing & Pass Assurance Guarantee | Crack All Exams",
   description: "Affordable NISM and financial certification test packages. Transparent pricing with 100% money-back pass assurance guarantee.",
 };
 
@@ -192,7 +192,7 @@ export default function PricingPage() {
             </div>
             <div>
               <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                The ClearAllExams 100% Pass Assurance Commitment
+                The Crack All Exams 100% Pass Assurance Commitment
               </h2>
               <p className="text-xs text-slate-500">
                 Transparent terms designed to guarantee your peace of mind and success.
@@ -216,7 +216,7 @@ export default function PricingPage() {
             <div className="p-4 rounded-xl bg-slate-50 border border-slate-100 space-y-1.5">
               <strong className="text-slate-900 block text-sm font-semibold">3. 100% Fee Refund or Renewal</strong>
               <p>
-                In the rare case that you do not clear, email your score receipt to support@clearallexams.in. Receive a 100% full refund within 48 hours or free extended access.
+                In the rare case that you do not clear, email your score receipt to support@crackallexams.in. Receive a 100% full refund within 48 hours or free extended access.
               </p>
             </div>
           </div>

@@ -38,10 +38,10 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }) {
   const resolvedParams = await params;
   const exam = examsList.find((e) => e.id === resolvedParams.slug);
-  if (!exam) return { title: "Exam Not Found | ClearAllExams" };
+  if (!exam) return { title: "Exam Not Found | Crack All Exams" };
 
   return {
-    title: `${exam.code}: ${exam.title} Mock Tests & Prep Course | ClearAllExams`,
+    title: `${exam.code}: ${exam.title} Mock Tests & Prep Course | Crack All Exams`,
     description: `Crack ${exam.code} in first attempt. ${exam.questionsCount}+ practice questions, ${exam.fullMocksCount} full length mocks with negative marking, chapter tests, formula sheets and pass guarantee.`,
   };
 }
@@ -205,7 +205,7 @@ export default async function ExamDetailPage({ params }) {
                 {/* Preparation Methodology Card */}
                 <Card className="p-6">
                   <h3 className="text-lg font-bold text-slate-900 mb-3">
-                    The ClearAllExams 4-Step Prep Strategy
+                    The Crack All Exams 4-Step Prep Strategy
                   </h3>
                   <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-4">
                     <div className="p-4 rounded-xl bg-slate-50 border border-slate-200/80 space-y-1.5">

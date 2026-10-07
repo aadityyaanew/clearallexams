@@ -15,8 +15,8 @@ import { Badge } from "@/components/ui/badge";
 import { Card } from "@/components/ui/card";
 
 export const metadata = {
-  title: "About Us | ClearAllExams EdTech Platform",
-  description: "Learn about ClearAllExams, India's leading fintech exam preparation portal. Our mission, faculty council, and student-first philosophy.",
+  title: "About Us | Crack All Exams",
+  description: "Learn about Crack All Exams, India's leading fintech exam preparation portal. Our mission, faculty council, and student-first philosophy.",
 };
 
 export default function AboutPage() {
@@ -36,7 +36,7 @@ export default function AboutPage() {
           </h1>
 
           <p className="text-sm sm:text-base text-slate-300 leading-relaxed max-w-2xl mx-auto">
-            ClearAllExams was established with a singular mission: to eliminate the ambiguity and anxiety surrounding NISM and financial regulatory examinations in India.
+            Crack All Exams was established with a singular mission: to eliminate the ambiguity and anxiety surrounding NISM and financial regulatory examinations in India.
           </p>
         </div>
       </section>
@@ -45,13 +45,13 @@ export default function AboutPage() {
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 w-full flex-1 space-y-12">
         {/* Story Section */}
         <Card className="p-8 space-y-4 bg-white border-slate-200">
-          <h2 className="text-2xl font-bold text-slate-900">Why ClearAllExams?</h2>
+          <h2 className="text-2xl font-bold text-slate-900">Why Crack All Exams?</h2>
           <div className="text-sm text-slate-600 leading-relaxed space-y-3">
             <p>
               In India&apos;s rapidly evolving financial ecosystem, regulatory certifications mandated by SEBI and IRDAI are not merely credentials—they are mandatory licenses to practice. Yet, thousands of capable banking executives, distributors, and students fail on their initial attempts due to negative marking, time-pressure panic, and confusing test center interfaces.
             </p>
             <p>
-              At ClearAllExams, we realized that reading static 400-page workbooks is insufficient. Candidates need to build muscular intuition through identical Computer-Based Test (CBT) engines, negative marking calculations, and analytical explanations.
+              At Crack All Exams, we realized that reading static 400-page workbooks is insufficient. Candidates need to build muscular intuition through identical Computer-Based Test (CBT) engines, negative marking calculations, and analytical explanations.
             </p>
           </div>
         </Card>

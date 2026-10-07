@@ -75,9 +75,11 @@ export function HomeClient() {
               </div>
 
               {/* Punchy Headline */}
-              <h1 className="text-3xl sm:text-5xl lg:text-5xl/tight font-extrabold tracking-tight text-slate-900">
-                Smart Practice for Confident Exams.{" "}
-                <span className="text-blue-600">Crack NISM</span> on Your First Attempt.
+              <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold tracking-tight text-slate-900 leading-tight">
+                <span>Smart Practice for Confident Exams.</span>
+                <span className="block mt-1.5 sm:mt-2">
+                  <span className="text-blue-600">Crack NISM</span> on Your First Attempt.
+                </span>
               </h1>
 
               {/* Subheading */}

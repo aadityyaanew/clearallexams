@@ -216,7 +216,7 @@ export function ExamPricingEnrollment({ exam }) {
             <Button
               className="w-full bg-emerald-600 hover:bg-emerald-700 text-white font-bold h-11 text-sm mt-3"
               onClick={() => {
-                alert(`Enrollment confirmed! Welcome to ClearAllExams ${exam.code}. Redirecting to your mock test dashboard...`);
+                alert(`Enrollment confirmed! Welcome to Crack All Exams ${exam.code}. Redirecting to your mock test dashboard...`);
                 setCheckoutOpen(false);
               }}
             >

@@ -44,7 +44,7 @@ export default function TestimonialsPage() {
       score: "84 / 100",
       passedDate: "February 2026",
       avatar: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&auto=format&fit=crop&q=80",
-      comment: "I had failed Series VIII twice before finding ClearAllExams. Their focus on the 0.25 negative marking penalty completely transformed my question selection strategy. Passed with 84%!",
+      comment: "I had failed Series VIII twice before finding Crack All Exams. Their focus on the 0.25 negative marking penalty completely transformed my question selection strategy. Passed with 84%!",
       verified: true,
     },
     {
@@ -55,7 +55,7 @@ export default function TestimonialsPage() {
       score: "89 / 100",
       passedDate: "March 2026",
       avatar: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=150&auto=format&fit=crop&q=80",
-      comment: "DuPont numerical analysis and SEBI RA code of conduct questions were almost identical to ClearAllExams mock tests. Truly a gold standard portal for financial certification candidates.",
+      comment: "DuPont numerical analysis and SEBI RA code of conduct questions were almost identical to Crack All Exams mock tests. Truly a gold standard portal for financial certification candidates.",
       verified: true,
     },
     {
@@ -66,7 +66,7 @@ export default function TestimonialsPage() {
       score: "46 / 50",
       passedDate: "February 2026",
       avatar: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&auto=format&fit=crop&q=80",
-      comment: "ClearAllExams helped our whole batch of 25 agents pass IC-38 on their first attempt without any re-attempts. Excellent explanations in simple terms.",
+      comment: "Crack All Exams helped our whole batch of 25 agents pass IC-38 on their first attempt without any re-attempts. Excellent explanations in simple terms.",
       verified: true,
     },
   ];

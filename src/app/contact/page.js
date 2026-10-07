@@ -77,8 +77,8 @@ export default function ContactPage() {
                   <Mail className="h-4 w-4 text-purple-600 shrink-0 mt-0.5" />
                   <div>
                     <div className="font-bold text-slate-900">Official Email:</div>
-                    <a href="mailto:support@clearallexams.in" className="hover:text-blue-600">
-                      support@clearallexams.in
+                    <a href="mailto:support@crackallexams.in" className="hover:text-blue-600">
+                      support@crackallexams.in
                     </a>
                   </div>
                 </div>

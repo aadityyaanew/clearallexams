@@ -574,7 +574,7 @@ export const testimonials = [
     score: "92 / 100",
     passedDate: "February 2026",
     avatar: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150&auto=format&fit=crop&q=80",
-    comment: "I had only 6 days to prepare while managing a 9-to-6 banking job. The 10 mock tests on ClearAllExams were remarkably close to the actual NISM test center interface. At least 60% of the numerical questions had almost identical patterns. Passed with 92% in my very first attempt!",
+    comment: "I had only 6 days to prepare while managing a 9-to-6 banking job. The 10 mock tests on Crack All Exams were remarkably close to the actual NISM test center interface. At least 60% of the numerical questions had almost identical patterns. Passed with 92% in my very first attempt!",
     verified: true
   },
   {
@@ -585,7 +585,7 @@ export const testimonials = [
     score: "86 / 100",
     passedDate: "January 2026",
     avatar: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
-    comment: "Negative marking in Series VIII makes it tricky. ClearAllExams' test simulator helped me develop real discipline on skipping uncertain questions. The detailed explanations for Option Greeks and SPAN margins are ten times clearer than the static workbook.",
+    comment: "Negative marking in Series VIII makes it tricky. Crack All Exams' test simulator helped me develop real discipline on skipping uncertain questions. The detailed explanations for Option Greeks and SPAN margins are ten times clearer than the static workbook.",
     verified: true
   },
   {
@@ -596,7 +596,7 @@ export const testimonials = [
     score: "88 / 100",
     passedDate: "March 2026",
     avatar: "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150&auto=format&fit=crop&q=80",
-    comment: "The financial ratio and DCF numericals in the research analyst exam are notoriously lengthy. ClearAllExams' chapter drills broke down every valuation metric. Highly recommend their pass assurance guarantee—though you won't need the refund because you will clear it easily!",
+    comment: "The financial ratio and DCF numericals in the research analyst exam are notoriously lengthy. Crack All Exams' chapter drills broke down every valuation metric. Highly recommend their pass assurance guarantee—though you won't need the refund because you will clear it easily!",
     verified: true
   },
   {
@@ -607,7 +607,7 @@ export const testimonials = [
     score: "81 / 100",
     passedDate: "January 2026",
     avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
-    comment: "Investment Adviser Level 1 has a high failure rate in the industry. ClearAllExams mock tests with realistic timer and question palette conditioned me for the 2-hour pressure. Worth every single rupee.",
+    comment: "Investment Adviser Level 1 has a high failure rate in the industry. Crack All Exams mock tests with realistic timer and question palette conditioned me for the 2-hour pressure. Worth every single rupee.",
     verified: true
   }
 ];
@@ -690,15 +690,15 @@ export const liveClassesSchedule = [
 
 export const faqs = [
   {
-    question: "Are ClearAllExams mock tests updated for the latest 2026 NISM curriculum?",
+    question: "Are Crack All Exams mock tests updated for the latest 2026 NISM curriculum?",
     answer: "Yes, 100%. Our academic faculty and certified financial experts continuously review updates from NISM, SEBI, and IRDAI. Whenever a new workbook edition or regulatory change (such as amended taxation rules or updated capital adequacy ratios) is announced, our question bank is immediately revised with corresponding explanations."
   },
   {
-    question: "How close is the ClearAllExams test simulator to the actual NISM exam?",
+    question: "How close is the Crack All Exams test simulator to the actual NISM exam?",
     answer: "Our exam simulator is custom-engineered to mirror the exact Prometric / TCS iON test delivery engine used by NISM test centers across India. You will experience identical question palettes, section timers, review flags, positive/negative marking calculations, and split-screen layouts, eliminating any test-day anxiety."
   },
   {
-    question: "What is the ClearAllExams 100% Pass Assurance Guarantee policy?",
+    question: "What is the Crack All Exams 100% Pass Assurance Guarantee policy?",
     answer: "We stand behind our preparation materials with absolute confidence. If you complete at least 85% of the mock tests in your purchased series and score an average of 70% or higher, yet unfortunately do not clear the official NISM certification on your scheduled attempt, we will provide you with a 100% unconditional refund or extend your portal access for 6 months free of charge."
   },
   {
@@ -707,7 +707,7 @@ export const faqs = [
   },
   {
     question: "Can I access the mock tests and notes on my mobile phone or tablet?",
-    answer: "Yes! ClearAllExams is fully responsive and optimized for mobile devices, tablets, laptops, and desktop computers. You can take chapter tests, review flashcards, and solve mock exams on your smartphone anytime, anywhere."
+    answer: "Yes! Crack All Exams is fully responsive and optimized for mobile devices, tablets, laptops, and desktop computers. You can take chapter tests, review flashcards, and solve mock exams on your smartphone anytime, anywhere."
   },
   {
     question: "Can I retake the mock tests multiple times?",

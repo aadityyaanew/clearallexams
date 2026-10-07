@@ -43,15 +43,14 @@ export default function LoginPage() {
   return (
     <div className="min-h-screen bg-slate-50 flex flex-col justify-center py-12 sm:px-6 lg:px-8 font-sans">
       <div className="sm:mx-auto sm:w-full sm:max-w-md text-center space-y-3">
-        <Link href="/" className="inline-flex items-center gap-2">
-          <div className="h-10 w-10 rounded-xl bg-blue-600 flex items-center justify-center text-white shadow-sm">
-            <GraduationCap className="h-6 w-6" />
-          </div>
-          <span className="text-2xl font-bold tracking-tight text-slate-900">
-            ClearAll<span className="text-blue-600">Exams</span>
-          </span>
+        <Link href="/" className="inline-block py-1">
+          <img
+            src="/mainlogo.jpeg"
+            alt="Crack All Exams"
+            className="h-12 w-auto mx-auto object-contain"
+          />
         </Link>
-        <h2 className="text-xl font-bold tracking-tight text-slate-900">
+        <h2 className="text-xl font-bold tracking-tight text-slate-900 mt-2">
           Sign In to Student Portal
         </h2>
         <p className="text-xs text-slate-500">
@@ -193,7 +192,7 @@ export default function LoginPage() {
         {/* Security Trust Note */}
         <div className="mt-6 text-center text-xs text-slate-400 flex items-center justify-center gap-1.5">
           <Lock className="h-3.5 w-3.5" />
-          <span>256-Bit SSL Encrypted Portal • ClearAllExams EdTech</span>
+          <span>256-Bit SSL Encrypted Portal • Crack All Exams EdTech</span>
         </div>
       </div>
     </div>

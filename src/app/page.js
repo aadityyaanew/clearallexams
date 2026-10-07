@@ -3,11 +3,12 @@ import { Footer } from "@/components/layout/Footer";
 import { HomeClient } from "@/components/home/HomeClient";
 
 export const metadata = {
-  title: "ClearAllExams - Premier NISM & Financial Certification Prep Platform",
+  title: "Crack All Exams - Smart Practice for Confident Exams",
   description:
     "Crack NISM Series V-A, Series VIII, Series XV, and financial regulatory certifications on your first attempt. Experience real Prometric CBT exam simulators, chapter tests, negative marking calculators, formula sheets, and 100% Pass Assurance.",
   keywords: [
     "NISM mock test",
+    "Crack All Exams",
     "NISM Series V-A Mutual Fund",
     "NISM Series VIII Equity Derivatives",
     "NISM Series XV Research Analyst",

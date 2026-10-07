@@ -15,7 +15,7 @@ export async function generateMetadata({ params }) {
   const title = exam ? exam.title : "Mutual Fund Distributors";
 
   return {
-    title: `Live Mock Test Simulator: ${code} - ${title} | ClearAllExams`,
+    title: `Live Mock Test Simulator: ${code} - ${title} | Crack All Exams`,
     description: `Experience the official computer-based examination interface for ${code}. Practice with realistic countdown timer, question palette, and negative marking.`,
   };
 }
